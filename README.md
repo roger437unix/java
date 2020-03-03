@@ -7,3 +7,5 @@ Nesta página você vai entrar em contato com as aulas e listas de exercícios r
 **Contatos**
 
 - [**LinkedIn**](https://www.linkedin.com/in/rogério-alcântara-7ab741191)
+
+- roger437unix@gmail.com
