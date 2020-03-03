@@ -8,4 +8,4 @@ Nesta página você vai entrar em contato com as aulas e listas de exercícios r
 
 - [**LinkedIn**](https://www.linkedin.com/in/rogério-alcântara-7ab741191)
 
-- [**roger437unix@gmail.com**]
+- **roger437unix@gmail.com**
