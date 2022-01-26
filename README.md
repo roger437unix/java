@@ -1,4 +1,4 @@
-![image](https://ebusinessconsultoria.com.br/assets/Uploads/java-bg.jpg)
+![image](https://inside.java/images/java-logo-vert-blk.png)
 
 # Minhas aulas de introdução a algoritmos em Java 
 
